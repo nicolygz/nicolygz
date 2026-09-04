@@ -70,9 +70,9 @@ Projeto acadêmico do 2º semestre de DSM, desenvolvido em equipe em parceria co
 `[link do repositório]`
 
 ### Portfólio pessoal
-`[breve descrição do projeto]`
+`Site pessoal com meus projetos, formação e contato, reunindo em um só lugar o que venho construindo ao longo do curso de DSM`
 
-`[link do repositório]`
+https://github.com/nicolygz/Portifolio
 
 ---
 
