@@ -67,7 +67,7 @@ Estudante de DSM na Fatec São José dos Campos, atualmente construindo uma base
 ### Helpnei
 Projeto acadêmico do 2º semestre de DSM, desenvolvido em equipe em parceria com a Helpnei. Atuei no desenvolvimento da API/backend do projeto.
 
-`[link do repositório]`
+https://github.com/the-devs-department/HELPNEI-2025.1-2Sem
 
 ### Portfólio pessoal
 `Site pessoal com meus projetos, formação e contato, reunindo em um só lugar o que venho construindo ao longo do curso de DSM`
