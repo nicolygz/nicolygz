@@ -72,7 +72,7 @@ https://github.com/the-devs-department/HELPNEI-2025.1-2Sem
 ### Portfólio pessoal
 Site pessoal com meus projetos, formação e contato, reunindo em um só lugar o que venho construindo ao longo do curso de DSM
 
-https://github.com/nicolygz/Portifolio
+[https://github.com/nicolygz/Portifolio](https://github.com/nicolygz/portifolio2026)
 
 ---
 
